@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# build
+/dist
+/build
+
+# env file
+Client/.env
+Server/.env
